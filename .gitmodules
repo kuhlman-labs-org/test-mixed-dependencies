@@ -1,0 +1,7 @@
+[submodule "libs/local-target"]
+	path = libs/local-target
+	url = https://github.com/kuhlman-labs-org/test-dependency-target.git
+
+[submodule "libs/external-checkout"]
+	path = libs/external-checkout
+	url = https://github.com/actions/checkout.git
